@@ -5,7 +5,7 @@
 - 🔹 (otro repo) – breve descripción
 - 🔹 (otro repo) – breve descripción
 
-## 📊 Ciencia de Datos
+## 📊 Data Science
 - 🔸 (repo DS 1) – breve descripción
 - 🔸 (repo DS 2) – breve descripción
 
