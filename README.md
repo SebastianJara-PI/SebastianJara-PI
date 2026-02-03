@@ -1,16 +1,13 @@
-## Hi there 👋
+# Sebastián Jara
 
-<!--
-**SebastianJara-PI/SebastianJara-PI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Physics-Informed ML (PINNs / VPINNs)
+- 🔹 [PINN-presion-bifurcacion-arterial](https://github.com/SebastianJara-PI/PINN-presion-bifurcacion-arterial)
+- 🔹 (otro repo) – breve descripción
+- 🔹 (otro repo) – breve descripción
 
-Here are some ideas to get you started:
+## 📊 Ciencia de Datos
+- 🔸 (repo DS 1) – breve descripción
+- 🔸 (repo DS 2) – breve descripción
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Skills
+Python · PyTorch · 4D Flow MRI · Data Analysis
